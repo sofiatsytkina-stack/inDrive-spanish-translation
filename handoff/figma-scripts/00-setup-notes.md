@@ -24,9 +24,23 @@
    заходе — см. `../README.md`. **Экономьте вызовы**: на человеке с paid-доступом лучше сразу делать
    route "инвентаризация чанками → собрать словарь → 3-5 вызовов записи" вместо десятков мелких проверок.
 
-## Ключевые ID (файл https://www.figma.com/design/2GDDIA8sTmlAARXtukZ6eB/Delivery-Product-Flow-Espanol)
+## ⚠️ Какой fileKey использовать
 
-- `fileKey`: `2GDDIA8sTmlAARXtukZ6eB`
+Исходный файл (`2GDDIA8sTmlAARXtukZ6eB`, ссылка ниже) — аккаунт видит его только **View**-доступом
+(team "inDrive", Starter-план); правки туда падают с `Can't set "characters" in read-only mode`.
+Реальная работа (Colombia уже готова) идёт в **дубликате** на Pro-плане пользователя:
+
+- Рабочий `fileKey`: **`b9dUHSlJ3Lt5HlVdn0V5s4`**
+  (https://www.figma.com/design/b9dUHSlJ3Lt5HlVdn0V5s4/Delivery-Product-Flow-Espanol--Copy-)
+- Node id **идентичны** исходнику (Figma сохранила их при Duplicate) — все id ниже актуальны для
+  обоих файлов, просто подставляйте нужный `fileKey`.
+- Всегда проверяйте `whoami` перед началом работы; если снова `read-only mode` — используете не тот
+  `fileKey`.
+
+## Ключевые ID (файл https://www.figma.com/design/2GDDIA8sTmlAARXtukZ6eB/Delivery-Product-Flow-Espanol — структура идентична рабочей копии)
+
+- `fileKey` исходника (только чтение): `2GDDIA8sTmlAARXtukZ6eB`
+- `fileKey` рабочей копии (Editor-доступ): `b9dUHSlJ3Lt5HlVdn0V5s4`
 - Страница English (не трогать!): `0:1`
 - Страница Colombia: `2001:14595`
 - Секция "Delivery Hub" на странице Colombia: `2001:14596`

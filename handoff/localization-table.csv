@@ -355,8 +355,8 @@ Maria,María,María,María,DATA,"имя отправителя/получате�
 Gaurav,Mateo,Mateo,Mateo,DATA,имя+фото 4-й аватарки курьера -> Mateo.png из Userpics
 Silver Mercedes-Benz C-Class,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,DATA,
 Silver Mercedes-Benz  C-Class,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,DATA,дубль с двойным пробелом в исходнике
-Volkswagen Golf,Chevrolet Onix,Chevrolet Onix,Chevrolet Onix,DATA,"машина непопулярна в Колумбии, заменена по референсу"
-Yamaha YZF-R3,Bajaj Pulsar 200,Bajaj Pulsar 200,Bajaj Pulsar 200,DATA,"мотоцикл непопулярен в Колумбии, заменена по референсу"
+Volkswagen Golf,Chevrolet Onix Gris,Toyota Yaris Gris,Chevrolet Sail Gris,DATA,"машина курьера Carlos на карточке ставки (Bids) — точные значения по референс-скриншотам пользователя, см. README.md"
+Yamaha YZF-R3,Bajaj Pulsar 200 Negra,Honda GL150 Negra,Shineray XY150 Negra,DATA,"мотоцикл курьера Mateo на карточке ставки (Bids) — точные значения по референс-скриншотам пользователя, см. README.md"
 ABX 123,ABC456,ABC456,ABC456,DATA,"гос. номер, колумбийский формат"
 Good day! Would you please be so kind as to take my huge surprise box to the esteemed members of my gorgeous family? I would be most grateful for it,¡Buen día! ¿Serías tan amable de llevar mi caja sorpresa grande a los miembros de mi hermosa familia? Te lo agradecería mucho,¡Buen día! ¿Serías tan amable de llevar mi caja sorpresa grande a los miembros de mi hermosa familia? Te lo agradecería mucho,¡Buen día! ¿Serías tan amable de llevar mi caja sorpresa grande a los miembros de mi hermosa familia? Te lo agradecería mucho,DATA,
 "You can drive up from the pharmacy, near the barrier","Puedes acercarte desde la farmacia, cerca de la barrera","Puedes acercarte desde la farmacia, cerca de la barrera","Puedes acercarte desde la farmacia, cerca de la barrera",DATA,
