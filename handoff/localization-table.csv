@@ -1,415 +1,419 @@
-English,Colombia (ES),category,notes
-To,Hasta,UI,label маршрута From/To -> Desde/Hasta
-From,Desde,UI,
-Entry points,,SKIP,служебный заголовок секции на канвасе
-Main screen RH,,SKIP,"служебное имя, RH = вариант раскладки"
-Pickup point,Punto de recogida,UI,
-20 Ingram Str.,Calle 45 # 8-12,DATA,"адрес отправления, повторяется во многих местах"
-Ride,Viaje,UI,
-Courier,Mensajería,UI,название вертикали в навигации
-City to city,Entre ciudades,UI,
-Freight,Carga,UI,
-Where to & for how much?,¿A dónde y por cuánto?,UI,
-Where to & how much for?,¿A dónde y por cuánto?,UI,вариант той же фразы
-Daily Bugle,Centro Comercial Andino,DATA,пример места назначения
-"175 5th Ave, New York","Calle 82 # 11-15, Bogotá",DATA,
-"3,3 km","3,3 km",DATA,"формат с запятой уже испанский, менять не нужно"
-Harlem Kettlebell Club,Gimnasio CrossFit Chapinero,DATA,
-"1775 Madison Ave, New York","Carrera 15 # 93-47, Bogotá",DATA,
-"3,7 km","3,7 km",DATA,
-Joe's Pizza,Pizzería Julia,DATA,
-"457 W 17th St, New York","Calle 116 # 15-32, Bogotá",DATA,
-"2,2 km","2,2 km",DATA,
-Midtown High School,Colegio San Carlos,DATA,
-"200 W 40th St, New York","Carrera 7 # 127-45, Bogotá",DATA,
-"9,2 km","9,2 km",DATA,
-Jirán Zorritos 920,Calle 45 # 8-12,DATA,дубль адреса отправления
-Aeropuerto Inte...al Jorge Chávez,Aeropuerto El Dorado,DATA,
-Centro médico... Santiago Távara,Clínica Country,DATA,
-How is it better to transport things?,¿Cómo transportar tus cosas?,UI,
-Services in your city,Servicios en tu ciudad,UI,
-Popular intercity travels,Viajes populares entre ciudades,UI,
-Save money with inDrive+ ,Ahorra con inDrive+ ,UI,
-Subscribe and get bonuses for every ride,Suscríbete y obtén bonos en cada viaje,UI,
-City to city from $32 $44,Entre ciudades desde COP 130.000 COP 176.000,DATA,цена + перечёркнутая старая цена
-Private ride to Cambridge,Viaje privado a Chía,DATA,
-City ride from $12 $16,Viaje en la ciudad desde COP 13.000 COP 17.000,DATA,
-10km included,10 km incluidos,UI,
-1 mover from $50,1 ayudante desde COP 85.000,DATA,
-Cargo moving in 3 hours,Mudanza en 3 horas,UI,
-City rides,Viajes en la ciudad,UI,
-Market,Mercado,UI,
-NEW,NUEVO,UI,
-City to City,Entre ciudades,UI,дубль с другим регистром
-Couriers,Mensajería,UI,
-Choose a City ride,Elige un viaje en la ciudad,UI,
-Comfort,Confort,UI,тариф поездки
-Go to the City,Ir a la ciudad,UI,
-Send fast and safe,Envía rápido y seguro,UI,
-Clothes,Ropa,UI,подтверждено референсом UI Examples
-Food,Comida,UI,
-Electronics,Electrónicos,UI,
-Delivery from S/3.7,Domicilio desde COP 6.000,DATA,"было в перуанских солях, конвертировано в COP"
-Safety above all,La seguridad ante todo,UI,
-Visit loved ones,Visita a tus seres queridos,UI,
-Delivery for business,Entregas para empresas,UI,
-Intercity Prices,Tarifas entre ciudades,UI,
-Gifts to send,Regalos para enviar,UI,
-Russel,Camilo,DATA,"имя в собственном профиле (side menu), не карточка курьера"
-4.5 (157),"4,5 (157)",DATA,"формат рейтинга, запятая вместо точки"
-Toyota Allex,Chevrolet Spark,DATA,"машина непопулярна в Колумбии, заменена"
-City,Viajes,UI,пункт бокового меню
-Request history,Historial de viajes,UI,
-Buissiness delivery,Entregas empresariales,UI,опечатка в оригинале сохранена как есть по смыслу
-Notifications,Notificaciones,UI,
-Safety,Seguridad,UI,
-Settings,Configuración,UI,
-Help,Ayuda,UI,
-Support,Soporte,UI,
-Driver mode,Modo conductor,UI,
-History,Historial,UI,
-"16 Sep, 8:44 AM","16 sept, 8:44 a.m.",DATA,
-"Douriou Ippou 17, Germasogeia, Cyprus","Calle 26 # 68-90, Bogotá",DATA,
-"Victory House, Victory tower, Arch. Makarios III Avenue 205, Limassol 3030, Cyprus","Aeropuerto El Dorado, Bogotá",DATA,
-$14.00,COP 18.000,DATA,
-"14 Sep, 8:44","14 sept, 8:44",DATA,
-28 Cook St (Randwick),Carrera 11 # 93-45 (Chicó),DATA,
-"Georgiou Griva Digeni 39, Ypsonas 4180, Cyprus",Calle 63 # 9-20 (Chapinero),DATA,
-Door-to-door,Puerta a puerta,UI,
-$12.00,COP 15.000,DATA,
-"14 Sep, 17:56","14 sept, 17:56",DATA,
-3 Lovett St (Manly),Carrera 19 # 104-30 (Usaquén),DATA,
-"Spyrou Kyprianou 11, Germasogeia 4043, Cyprus",Calle 140 # 12-08 (Usaquén),DATA,
-Driver cancelled,El conductor canceló,UI,
-fare,tarifa,CHECK,"похоже на fallback-плейсхолдер, проверить видно ли это реально в UI"
-"13 Sep, 19:25","13 sept, 19:25",DATA,
-Sydney Airport,Aeropuerto El Dorado,DATA,
-"187 Mimosa Rd, Greenacre NSW Learning Genius Early Learning","Calle 170 # 45-12, Suba",DATA,
-$11.50,COP 14.000,DATA,
-"10 Sep, 8:58","10 sept, 8:58",DATA,
-1597 Anzac Parade (La Perouse),Carrera 30 # 45-03 (Teusaquillo),DATA,
-"Panayioti Tsangari 23, Limassol, Cyprus",Calle 53 # 24-10 (Teusaquillo),DATA,
-You cancelled,Cancelaste el viaje,UI,
-"13 Sep, 20:37","13 sept, 20:37",DATA,
-"Regus - Limasol, Victory House","Torre Colpatria, Bogotá",DATA,
-Ride history,Historial de viajes,UI,
-Live Activity,Actividad en vivo,UI,
-Pickup in ~8 min,Recogida en ~8 min,UI,
-ขส1993 พระนครศรีอยุธยา · White Mercedes Benz E-class,ABC123 · Mercedes-Benz Clase E Blanco,DATA,"было на тайском, заменено на колумбийский номер"
-"Tuesday, 23 June","Martes, 23 de junio",DATA,
-Main form,,SKIP,служебный заголовок секции
-"Burnett Ln, Brisbane City","Calle 72 # 10-34, Bogotá",DATA,
-Courier delivery,Domicilio,UI,заголовок экрана заказа
-"33 Burnett Ln, Brisbane City","Calle 72 # 10-34, Bogotá",DATA,"основной пример адреса отправления, повторяется много раз"
-Add stops,Agregar paradas,UI,
-Order details,Detalles del pedido,UI,вкладка
-Offer your price,Ofrece tu precio,UI,вкладка
-Find courier ,Buscar mensajero,UI,
-Find courier,Buscar mensajero,UI,
-from $7,Desde COP 7.000,DATA,
-w/ Templates,Con plantillas,UI,
-Templates,Plantillas,UI,
-Huge surprise box,Caja sorpresa grande,DATA,пример содержимого посылки
-33 Burnett Ln,Calle 72 # 10-34,DATA,короткая форма того же адреса
-"Entrance 1, apt. 15, 4th floor, the intercom does not work, call the concierge","Entrada 1, apto. 15, piso 4, el citófono no funciona, llamar al portero",DATA,
-Pennsylvania Plaza,Centro Comercial Santafé,DATA,"основной пример адреса доставки, повторяется много раз"
-2 more stops,2 paradas más,UI,
-Filled form,,SKIP,служебная подпись на канвасе
-"To building, +527... to +527055","A edificio, +57 300... a +57 305",DATA,сжатое превью двух телефонов
-"$30, Cash","COP 45.000, Efectivo",DATA,
-Bookmarks,Guardados,UI,
-Where to,¿A dónde?,UI,
-от 1500 ₸,desde COP 6.000,DATA,было в казахских тенге
-from 13R$,desde COP 9.000,DATA,было в бразильских реалах
-Work,Trabajo,UI,метка сохранённого адреса
-Save address,Guardar dirección,UI,
-More,Más,UI,
-"Brooklyn, NY","Chapinero, Bogotá",DATA,
-3 stops,3 paradas,UI,
-Business delivery mode ,Modo entrega empresarial ,UI,
-"More opportunities, for no extra cost","Más beneficios, sin costo adicional",UI,
-Try now,Probar ahora,UI,
- Enter your route, Ingresa tu ruta,UI,
-Achievement 1st Bushwick MS,Colegio La Salle,DATA,
-Suggested,Sugeridos,UI,
-Saved,Guardados,UI,
-New York,Bogotá,DATA,короткая форма адреса-подзаголовка
-/ DTD,,SKIP,служебная подпись
-/DTD,,SKIP,служебная подпись
-Car ~ $10,En carro ~ COP 15.000,DATA,
-Motorcycle ~ $10,En moto ~ COP 15.000,DATA,
-Bike,En bicicleta,UI,
-Foot courier,A pie,UI,подтверждено референсом
-От двери до двери,Puerta a puerta,UI,было на русском по ошибке
-Термосумка,Maleta térmica,UI,было на русском; подтверждено референсом UI Examples/Colombia.png
-How to deliver,Cómo entregar,UI,
-To building,A edificio,UI,
-To door,A la puerta,UI,
-Where to pick up,Dónde recoger,UI,
-Where to deliver,Dónde entregar,UI,
-"Street, building","Calle, edificio",UI,
-Address details,Detalles de la dirección,UI,
-Sender's phone,Teléfono del remitente,UI,
-+79876543221,+57 300 123 4567,DATA,было в российском формате
-Add stop,Agregar parada,UI,
-Entrance,Entrada,UI,
-"Floor, apartment, entryphone","Piso, apartamento, citófono",UI,
-Recipient's phone,Teléfono del destinatario,UI,
-What to deliver,Qué entregar,UI,
+English,Colombia (ES),Peru (ES),Ecuador (ES),category,notes
+To,Hasta,Hasta,Hasta,UI,label маршрута From/To -> Desde/Hasta
+From,Desde,Desde,Desde,UI,
+Entry points,,,,SKIP,служебный заголовок секции на канвасе
+Main screen RH,,,,SKIP,"служебное имя, RH = вариант раскладки"
+Pickup point,Punto de recogida,Punto de recogida,Punto de recogida,UI,
+20 Ingram Str.,Calle 45 # 8-12,Calle 45 # 8-12,Calle 45 # 8-12,DATA,"адрес отправления, повторяется во многих местах"
+Ride,Viaje,Viaje,Viaje,UI,
+Courier,Mensajería,Mensajería,Mensajería,UI,название вертикали в навигации
+City to city,Entre ciudades,Entre ciudades,Entre ciudades,UI,
+Freight,Carga,Carga,Carga,UI,
+Where to & for how much?,¿A dónde y por cuánto?,¿A dónde y por cuánto?,¿A dónde y por cuánto?,UI,
+Where to & how much for?,¿A dónde y por cuánto?,¿A dónde y por cuánto?,¿A dónde y por cuánto?,UI,вариант той же фразы
+Daily Bugle,Centro Comercial Andino,Centro Comercial Andino,Centro Comercial Andino,DATA,пример места назначения
+"175 5th Ave, New York","Calle 82 # 11-15, Bogotá","Calle 82 # 11-15, Bogotá","Calle 82 # 11-15, Bogotá",DATA,
+"3,3 km","3,3 km","3,3 km","3,3 km",DATA,"формат с запятой уже испанский, менять не нужно"
+Harlem Kettlebell Club,Gimnasio CrossFit Chapinero,Gimnasio CrossFit Chapinero,Gimnasio CrossFit Chapinero,DATA,
+"1775 Madison Ave, New York","Carrera 15 # 93-47, Bogotá","Carrera 15 # 93-47, Bogotá","Carrera 15 # 93-47, Bogotá",DATA,
+"3,7 km","3,7 km","3,7 km","3,7 km",DATA,
+Joe's Pizza,Pizzería Julia,Pizzería Julia,Pizzería Julia,DATA,
+"457 W 17th St, New York","Calle 116 # 15-32, Bogotá","Calle 116 # 15-32, Bogotá","Calle 116 # 15-32, Bogotá",DATA,
+"2,2 km","2,2 km","2,2 km","2,2 km",DATA,
+Midtown High School,Colegio San Carlos,Colegio San Carlos,Colegio San Carlos,DATA,
+"200 W 40th St, New York","Carrera 7 # 127-45, Bogotá","Carrera 7 # 127-45, Bogotá","Carrera 7 # 127-45, Bogotá",DATA,
+"9,2 km","9,2 km","9,2 km","9,2 km",DATA,
+Jirán Zorritos 920,Calle 45 # 8-12,Calle 45 # 8-12,Calle 45 # 8-12,DATA,дубль адреса отправления
+Aeropuerto Inte...al Jorge Chávez,Aeropuerto El Dorado,Aeropuerto El Dorado,Aeropuerto El Dorado,DATA,
+Centro médico... Santiago Távara,Clínica Country,Clínica Country,Clínica Country,DATA,
+How is it better to transport things?,¿Cómo transportar tus cosas?,¿Cómo transportar tus cosas?,¿Cómo transportar tus cosas?,UI,
+Services in your city,Servicios en tu ciudad,Servicios en tu ciudad,Servicios en tu ciudad,UI,
+Popular intercity travels,Viajes populares entre ciudades,Viajes populares entre ciudades,Viajes populares entre ciudades,UI,
+Save money with inDrive+ ,Ahorra con inDrive+ ,Ahorra con inDrive+ ,Ahorra con inDrive+ ,UI,
+Subscribe and get bonuses for every ride,Suscríbete y obtén bonos en cada viaje,Suscríbete y obtén bonos en cada viaje,Suscríbete y obtén bonos en cada viaje,UI,
+City to city from $32 $44,Entre ciudades desde COP 130.000 COP 176.000,"Entre ciudades desde S/ 123,50 S/ 167,00",Entre ciudades desde $32.50 $44.00,DATA,цена + перечёркнутая старая цена
+Private ride to Cambridge,Viaje privado a Chía,Viaje privado a Chía,Viaje privado a Chía,DATA,
+City ride from $12 $16,Viaje en la ciudad desde COP 13.000 COP 17.000,"Viaje en la ciudad desde S/ 12,50 S/ 16,00",Viaje en la ciudad desde $3.25 $4.25,DATA,
+10km included,10 km incluidos,10 km incluidos,10 km incluidos,UI,
+1 mover from $50,1 ayudante desde COP 85.000,"1 ayudante desde S/ 81,00",1 ayudante desde $21.25,DATA,
+Cargo moving in 3 hours,Mudanza en 3 horas,Mudanza en 3 horas,Mudanza en 3 horas,UI,
+City rides,Viajes en la ciudad,Viajes en la ciudad,Viajes en la ciudad,UI,
+Market,Mercado,Mercado,Mercado,UI,
+NEW,NUEVO,NUEVO,NUEVO,UI,
+City to City,Entre ciudades,Entre ciudades,Entre ciudades,UI,дубль с другим регистром
+Couriers,Mensajería,Mensajería,Mensajería,UI,
+Choose a City ride,Elige un viaje en la ciudad,Elige un viaje en la ciudad,Elige un viaje en la ciudad,UI,
+Comfort,Confort,Confort,Confort,UI,тариф поездки
+Go to the City,Ir a la ciudad,Ir a la ciudad,Ir a la ciudad,UI,
+Send fast and safe,Envía rápido y seguro,Envía rápido y seguro,Envía rápido y seguro,UI,
+Clothes,Ropa,Ropa,Ropa,UI,подтверждено референсом UI Examples
+Food,Comida,Comida,Comida,UI,
+Electronics,Electrónicos,Electrónicos,Electrónicos,UI,
+Delivery from S/3.7,Domicilio desde COP 6.000,"Domicilio desde S/ 5,50",Domicilio desde $1.50,DATA,"было в перуанских солях, конвертировано в COP"
+Safety above all,La seguridad ante todo,La seguridad ante todo,La seguridad ante todo,UI,
+Visit loved ones,Visita a tus seres queridos,Visita a tus seres queridos,Visita a tus seres queridos,UI,
+Delivery for business,Entregas para empresas,Entregas para empresas,Entregas para empresas,UI,
+Intercity Prices,Tarifas entre ciudades,Tarifas entre ciudades,Tarifas entre ciudades,UI,
+Gifts to send,Regalos para enviar,Regalos para enviar,Regalos para enviar,UI,
+Russel,Camilo,Camilo,Camilo,DATA,"имя в собственном профиле (side menu), не карточка курьера"
+4.5 (157),"4,5 (157)","4,5 (157)","4,5 (157)",DATA,"формат рейтинга, запятая вместо точки"
+Toyota Allex,Chevrolet Spark,Chevrolet Spark,Chevrolet Spark,DATA,"машина непопулярна в Колумбии, заменена"
+City,Viajes,Viajes,Viajes,UI,пункт бокового меню
+Request history,Historial de viajes,Historial de viajes,Historial de viajes,UI,
+Buissiness delivery,Entregas empresariales,Entregas empresariales,Entregas empresariales,UI,опечатка в оригинале сохранена как есть по смыслу
+Notifications,Notificaciones,Notificaciones,Notificaciones,UI,
+Safety,Seguridad,Seguridad,Seguridad,UI,
+Settings,Configuración,Configuración,Configuración,UI,
+Help,Ayuda,Ayuda,Ayuda,UI,
+Support,Soporte,Soporte,Soporte,UI,
+Driver mode,Modo conductor,Modo conductor,Modo conductor,UI,
+History,Historial,Historial,Historial,UI,
+"16 Sep, 8:44 AM","16 sept, 8:44 a.m.","16 sept, 8:44 a.m.","16 sept, 8:44 a.m.",DATA,
+"Douriou Ippou 17, Germasogeia, Cyprus","Calle 26 # 68-90, Bogotá","Calle 26 # 68-90, Bogotá","Calle 26 # 68-90, Bogotá",DATA,
+"Victory House, Victory tower, Arch. Makarios III Avenue 205, Limassol 3030, Cyprus","Aeropuerto El Dorado, Bogotá","Aeropuerto El Dorado, Bogotá","Aeropuerto El Dorado, Bogotá",DATA,
+$14.00,COP 18.000,"S/ 17,00",$4.50,DATA,
+"14 Sep, 8:44","14 sept, 8:44","14 sept, 8:44","14 sept, 8:44",DATA,
+28 Cook St (Randwick),Carrera 11 # 93-45 (Chicó),Carrera 11 # 93-45 (Chicó),Carrera 11 # 93-45 (Chicó),DATA,
+"Georgiou Griva Digeni 39, Ypsonas 4180, Cyprus",Calle 63 # 9-20 (Chapinero),Calle 63 # 9-20 (Chapinero),Calle 63 # 9-20 (Chapinero),DATA,
+Door-to-door,Puerta a puerta,Puerta a puerta,Puerta a puerta,UI,
+$12.00,COP 15.000,"S/ 14,00",$3.75,DATA,
+"14 Sep, 17:56","14 sept, 17:56","14 sept, 17:56","14 sept, 17:56",DATA,
+3 Lovett St (Manly),Carrera 19 # 104-30 (Usaquén),Carrera 19 # 104-30 (Usaquén),Carrera 19 # 104-30 (Usaquén),DATA,
+"Spyrou Kyprianou 11, Germasogeia 4043, Cyprus",Calle 140 # 12-08 (Usaquén),Calle 140 # 12-08 (Usaquén),Calle 140 # 12-08 (Usaquén),DATA,
+Driver cancelled,El conductor canceló,El conductor canceló,El conductor canceló,UI,
+fare,tarifa,tarifa,tarifa,CHECK,"похоже на fallback-плейсхолдер, проверить видно ли это реально в UI"
+"13 Sep, 19:25","13 sept, 19:25","13 sept, 19:25","13 sept, 19:25",DATA,
+Sydney Airport,Aeropuerto El Dorado,Aeropuerto El Dorado,Aeropuerto El Dorado,DATA,
+"187 Mimosa Rd, Greenacre NSW Learning Genius Early Learning","Calle 170 # 45-12, Suba","Calle 170 # 45-12, Suba","Calle 170 # 45-12, Suba",DATA,
+$11.50,COP 14.000,"S/ 13,50",$3.50,DATA,
+"10 Sep, 8:58","10 sept, 8:58","10 sept, 8:58","10 sept, 8:58",DATA,
+1597 Anzac Parade (La Perouse),Carrera 30 # 45-03 (Teusaquillo),Carrera 30 # 45-03 (Teusaquillo),Carrera 30 # 45-03 (Teusaquillo),DATA,
+"Panayioti Tsangari 23, Limassol, Cyprus",Calle 53 # 24-10 (Teusaquillo),Calle 53 # 24-10 (Teusaquillo),Calle 53 # 24-10 (Teusaquillo),DATA,
+You cancelled,Cancelaste el viaje,Cancelaste el viaje,Cancelaste el viaje,UI,
+"13 Sep, 20:37","13 sept, 20:37","13 sept, 20:37","13 sept, 20:37",DATA,
+"Regus - Limasol, Victory House","Torre Colpatria, Bogotá","Torre Colpatria, Bogotá","Torre Colpatria, Bogotá",DATA,
+Ride history,Historial de viajes,Historial de viajes,Historial de viajes,UI,
+Live Activity,Actividad en vivo,Actividad en vivo,Actividad en vivo,UI,
+Pickup in ~8 min,Recogida en ~8 min,Recogida en ~8 min,Recogida en ~8 min,UI,
+ขส1993 พระนครศรีอยุธยา · White Mercedes Benz E-class,ABC123 · Mercedes-Benz Clase E Blanco,ABC123 · Mercedes-Benz Clase E Blanco,ABC123 · Mercedes-Benz Clase E Blanco,DATA,"было на тайском, заменено на колумбийский номер"
+"Tuesday, 23 June","Martes, 23 de junio","Martes, 23 de junio","Martes, 23 de junio",DATA,
+Main form,,,,SKIP,служебный заголовок секции
+"Burnett Ln, Brisbane City","Calle 72 # 10-34, Bogotá","Calle 72 # 10-34, Bogotá","Calle 72 # 10-34, Bogotá",DATA,
+Courier delivery,Domicilio,Domicilio,Domicilio,UI,заголовок экрана заказа
+"33 Burnett Ln, Brisbane City","Calle 72 # 10-34, Bogotá","Calle 72 # 10-34, Bogotá","Calle 72 # 10-34, Bogotá",DATA,"основной пример адреса отправления, повторяется много раз"
+Add stops,Agregar paradas,Agregar paradas,Agregar paradas,UI,
+Order details,Detalles del pedido,Detalles del pedido,Detalles del pedido,UI,вкладка
+Offer your price,Ofrece tu precio,Ofrece tu precio,Ofrece tu precio,UI,вкладка
+Find courier ,Buscar mensajero,Buscar mensajero,Buscar mensajero,UI,
+Find courier,Buscar mensajero,Buscar mensajero,Buscar mensajero,UI,
+from $7,Desde COP 7.000,"Desde S/ 6,50",Desde $1.75,DATA,
+w/ Templates,Con plantillas,Con plantillas,Con plantillas,UI,
+Templates,Plantillas,Plantillas,Plantillas,UI,
+Huge surprise box,Caja sorpresa grande,Caja sorpresa grande,Caja sorpresa grande,DATA,пример содержимого посылки
+33 Burnett Ln,Calle 72 # 10-34,Calle 72 # 10-34,Calle 72 # 10-34,DATA,короткая форма того же адреса
+"Entrance 1, apt. 15, 4th floor, the intercom does not work, call the concierge","Entrada 1, apto. 15, piso 4, el citófono no funciona, llamar al portero","Entrada 1, apto. 15, piso 4, el citófono no funciona, llamar al portero","Entrada 1, apto. 15, piso 4, el citófono no funciona, llamar al portero",DATA,
+Pennsylvania Plaza,Centro Comercial Santafé,Centro Comercial Santafé,Centro Comercial Santafé,DATA,"основной пример адреса доставки, повторяется много раз"
+2 more stops,2 paradas más,2 paradas más,2 paradas más,UI,
+Filled form,,,,SKIP,служебная подпись на канвасе
+"To building, +527... to +527055","A edificio, +57 300... a +57 305","A edificio, +51 987... a +51 988","A edificio, +593 987... a +593 988",DATA,сжатое превью двух телефонов
+"$30, Cash","COP 45.000, Efectivo","S/ 43,00, Efectivo","$11.25, Efectivo",DATA,
+Bookmarks,Guardados,Guardados,Guardados,UI,
+Where to,¿A dónde?,¿A dónde?,¿A dónde?,UI,
+от 1500 ₸,desde COP 6.000,"desde S/ 5,50",desde $1.50,DATA,было в казахских тенге
+from 13R$,desde COP 9.000,"desde S/ 8,50",desde $2.25,DATA,было в бразильских реалах
+Work,Trabajo,Trabajo,Trabajo,UI,метка сохранённого адреса
+Save address,Guardar dirección,Guardar dirección,Guardar dirección,UI,
+More,Más,Más,Más,UI,
+"Brooklyn, NY","Chapinero, Bogotá","Chapinero, Bogotá","Chapinero, Bogotá",DATA,
+3 stops,3 paradas,3 paradas,3 paradas,UI,
+Business delivery mode ,Modo entrega empresarial ,Modo entrega empresarial ,Modo entrega empresarial ,UI,
+"More opportunities, for no extra cost","Más beneficios, sin costo adicional","Más beneficios, sin costo adicional","Más beneficios, sin costo adicional",UI,
+Try now,Probar ahora,Probar ahora,Probar ahora,UI,
+ Enter your route, Ingresa tu ruta, Ingresa tu ruta, Ingresa tu ruta,UI,
+Achievement 1st Bushwick MS,Colegio La Salle,Colegio La Salle,Colegio La Salle,DATA,
+Suggested,Sugeridos,Sugeridos,Sugeridos,UI,
+Saved,Guardados,Guardados,Guardados,UI,
+New York,Bogotá,Bogotá,Bogotá,DATA,короткая форма адреса-подзаголовка
+/ DTD,,,,SKIP,служебная подпись
+/DTD,,,,SKIP,служебная подпись
+Car ~ $10,En carro ~ COP 15.000,"En carro ~ S/ 14,00",En carro ~ $3.75,DATA,
+Motorcycle ~ $10,En moto ~ COP 15.000,"En moto ~ S/ 14,00",En moto ~ $3.75,DATA,
+Bike,En bicicleta,En bicicleta,En bicicleta,UI,
+Foot courier,A pie,A pie,A pie,UI,подтверждено референсом
+От двери до двери,Puerta a puerta,Puerta a puerta,Puerta a puerta,UI,было на русском по ошибке
+Термосумка,Maleta térmica,Maleta térmica,Maleta térmica,UI,было на русском; подтверждено референсом UI Examples/Colombia.png
+How to deliver,Cómo entregar,Cómo entregar,Cómo entregar,UI,
+To building,A edificio,A edificio,A edificio,UI,
+To door,A la puerta,A la puerta,A la puerta,UI,
+Where to pick up,Dónde recoger,Dónde recoger,Dónde recoger,UI,
+Where to deliver,Dónde entregar,Dónde entregar,Dónde entregar,UI,
+"Street, building","Calle, edificio","Calle, edificio","Calle, edificio",UI,
+Address details,Detalles de la dirección,Detalles de la dirección,Detalles de la dirección,UI,
+Sender's phone,Teléfono del remitente,Teléfono del remitente,Teléfono del remitente,UI,
++79876543221,+57 300 123 4567,+51 987 654 321,+593 98 765 4321,DATA,было в российском формате
+Add stop,Agregar parada,Agregar parada,Agregar parada,UI,
+Entrance,Entrada,Entrada,Entrada,UI,
+"Floor, apartment, entryphone","Piso, apartamento, citófono","Piso, apartamento, citófono","Piso, apartamento, citófono",UI,
+Recipient's phone,Teléfono del destinatario,Teléfono del destinatario,Teléfono del destinatario,UI,
+What to deliver,Qué entregar,Qué entregar,Qué entregar,UI,
 "Comments for courier
 ","Comentarios para el mensajero
+","Comentarios para el mensajero
+","Comentarios para el mensajero
 ",UI,
-$7,COP 7.000,DATA,"базовая цена ""от"", повторяется много раз одинаково"
-Most complex form,,SKIP,служебная подпись
-Coverage,Cobertura,UI,
-New,Nuevo,UI,бейдж
-Up to $50 if package is damaged or missing during delivery,Hasta COP 180.000 si el paquete se daña o se pierde durante la entrega,DATA,
-Delivery protection,Protección de envío,UI,
-Confirmation code,Código de confirmación,UI,
-up to 5kg,hasta 5 kg,UI,
-up to 15kg,hasta 15 kg,UI,
-up to 25kg,hasta 25 kg,UI,
-Flowers,Flores,UI,подтверждено референсом
-Documents,Documentos,UI,
-Desserts,Postres,UI,
-Pharmacy,Farmacia,UI,подтверждено референсом
+$7,COP 7.000,S/ 6.00,$1.75,DATA,"базовая цена ""от"", повторяется много раз одинаково"
+Most complex form,,,,SKIP,служебная подпись
+Coverage,Cobertura,Cobertura,Cobertura,UI,
+New,Nuevo,Nuevo,Nuevo,UI,бейдж
+Up to $50 if package is damaged or missing during delivery,Hasta COP 180.000 si el paquete se daña o se pierde durante la entrega,"Hasta S/ 171,00 si el paquete se daña o se pierde durante la entrega",Hasta $45.00 si el paquete se daña o se pierde durante la entrega,DATA,
+Delivery protection,Protección de envío,Protección de envío,Protección de envío,UI,
+Confirmation code,Código de confirmación,Código de confirmación,Código de confirmación,UI,
+up to 5kg,hasta 5 kg,hasta 5 kg,hasta 5 kg,UI,
+up to 15kg,hasta 15 kg,hasta 15 kg,hasta 15 kg,UI,
+up to 25kg,hasta 25 kg,hasta 25 kg,hasta 25 kg,UI,
+Flowers,Flores,Flores,Flores,UI,подтверждено референсом
+Documents,Documentos,Documentos,Documentos,UI,
+Desserts,Postres,Postres,Postres,UI,
+Pharmacy,Farmacia,Farmacia,Farmacia,UI,подтверждено референсом
 "Dentistry equipment
 ","Equipo dental
+","Equipo dental
+","Equipo dental
 ",DATA,
-Save,Guardar,UI,подтверждено референсом
-Arriving in 7 min,Llega en 7 min,UI,
-...Molodezhnay – Osennaya St 7,...Carrera 15 – Calle 93 #7,DATA,было на русском
-Car ,En carro ,UI,
-Motorcycle ,En moto ,UI,
-Bike ,En bicicleta ,UI,
-+52 777 014 78 60,+57 300 123 4567,DATA,"было в мексиканском формате, тот же номер что и остальные телефоны"
-"4th floor, 132 apt","Piso 4, apto 132",DATA,
-"2 floor, 25 apt","Piso 2, apto 25",DATA,
-Dentistry equipment,Equipo dental,DATA,
-Multipoints management,,SKIP,служебная подпись
-Offer,,SKIP,служебный заголовок секции
-Offer / P2P users,,SKIP,служебная подпись
-Offer / B2B users,,SKIP,служебная подпись
-Where from,Desde dónde,UI,
-Сourier delivery,Domicilio,UI,"опечатка в оригинале (кириллическая С), тот же смысл что Courier delivery"
-Recommended price: $20,Precio recomendado: COP 25.000,DATA,
-Car ~ 2200₸ ,En carro ~ COP 15.000,DATA,было в тенге
-Moto ~ 2000₸,En moto ~ COP 13.000,DATA,было в тенге
-Foot ~ 1700₸ ,A pie ~ COP 8.000,DATA,было в тенге
-Cash,Efectivo,UI,
-$,,CHECK,"символ валюты в степпере ввода цены; в остальном UI решили не использовать $ для COP - нужно смотреть по месту, возможно оставить как есть или убрать"
-Recommended price,Precio recomendado,UI,
-Car,En carro,UI,
-~$45,~COP 45.000,DATA,
-Motorcycle,En moto,UI,
-~ $25,~COP 25.000,DATA,
-~$25,~COP 20.000,DATA,"повторяется дважды (Bike и Foot courier), получит одно и то же значение"
-Recipient pays for delivery,El destinatario paga el envío,UI,
-"To courier, when package arrives","Al mensajero, cuando llegue el paquete",UI,
-Done,Listo,UI,
-Prime,Prime,UI,"оставляем как есть, названия тарифов обычно не переводят"
-Car ~ $15,En carro ~ COP 15.000,DATA,
-Motorcycle ~ $7,En moto ~ COP 10.000,DATA,
-Courier auto-choice,Elección automática de mensajero,UI,
-Based on your settings,Según tu configuración,UI,
-Only the recommended price includes a 10% discount,Solo el precio recomendado incluye un 10% de descuento,UI,
-Alex,Carlos,DATA,курьер на карточке ставки (авто VW Golf) -> имя+фото Carlos.png из Userpics
-Any pickup notes for courier?,¿Alguna nota de recogida para el mensajero?,UI,
-Bids,,SKIP,служебный заголовок секции
-Box of candies,Caja de dulces,DATA,
-Bushwick Ave,Avenida Caracas,DATA,
-Bushwick Green Cleaners,Lavandería Verde,DATA,
-Bushwick Green|,Lavandería Verde|,DATA,"с курсором автодополнения, оставлен | как есть"
-Cancel,Cancelar,UI,
-Cancel and edit,Cancelar y editar,UI,
-Cancel order,Cancelar pedido,UI,
-Cancel request,Cancelar solicitud,UI,
-Cancel this request?,¿Cancelar esta solicitud?,UI,
-Car courier,En carro,UI,подтверждено референсом
-Cargo moving in 3 hours,Mudanza en 3 horas,UI,дубль
-Centro médico... Santiago Távara,Clínica Country,DATA,дубль
-Change price,Cambiar precio,UI,
-Child seat,Silla para niños,UI,
-Circular Quay,Parque de la 93,DATA,
-Clarify address,Aclarar dirección,UI,
-Courier is waiting for you — 0:00 Long waits can affect your rating,El mensajero te está esperando — 0:00 Las esperas largas pueden afectar tu calificación,UI,
-Courier is waiting for you — 4:50,El mensajero te está esperando — 4:50,UI,
-Courier matches the details shown in the app,El mensajero coincide con los datos que se muestran en la app,UI,
-Courier on the way to Pennsylvania Plaza,El mensajero va camino a Centro Comercial Santafé,UI,
-Courier will arrive in ~8 min,El mensajero llega en ~8 min,UI,
-DTD confirmation,Confirmación puerta a puerta,UI,"исправлено по замечанию пользователя: DTD = Door-to-Door, это реальный текст (заголовок экрана подтверждения доставки ""от двери до двери""), а не служебная канвас-метка вроде /DTD — но точный контекст стоит перепроверить скриншотом при возобновлении работы"
-Delivery Terms of Use,Términos de uso de la entrega,UI,
-Delivery completed,Entrega completada,UI,
-Delivery confirmation,Confirmación de entrega,UI,
-Delivery info,Información de la entrega,UI,
-Did the courier pick up the package at your door?,¿El mensajero recogió el paquete en tu puerta?,UI,
-Edit details,Editar detalles,UI,
-English,,SKIP,"клавиша переключения языка системной клавиатуры, не трогать"
-Filled text,,CHECK,"похоже на дизайн-плейсхолдер, проверить видимость в реальном UI"
-Form with Multilocations,,SKIP,служебная подпись
-DEF,,SKIP,"буквы номеронабирателя, системный компонент"
-A,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-B,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-C,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-D,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-E,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-F,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-G,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-H,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-I,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-J,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-K,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-L,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-M,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-N,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-O,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-P,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-Q,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-R,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-S,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-T,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-U,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-V,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-W,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-X,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-Y,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
-Z,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
- ,,SKIP,клавиша пробела экранной клавиатуры
-",",,SKIP,клавиша запятой экранной клавиатуры
-.,,SKIP,клавиша точки экранной клавиатуры
-?123,,SKIP,клавиша переключения режима экранной клавиатуры
-0,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-1,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-2,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-3,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-4,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-5,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-6,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-7,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-8,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-9,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
-* #,,SKIP,клавиши номеронабирателя
-+,,SKIP,клавиша номеронабирателя
-0/200,0/200,DATA,"счётчик символов, универсальный формат"
-ABC,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
-GHI,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
-JKL,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
-MNO,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
-PQRS,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
-TUV,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
-WXYZ,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
-Order statuses,,SKIP,служебный заголовок секции (7-я группа экранов)
-Search for courier,,SKIP,служебный заголовок секции (5-я группа экранов)
-Side menu,,SKIP,служебная подпись на канвасе
-Multilocations,,SKIP,служебная подпись на канвасе
-Warning (BDU),,SKIP,похоже на служебное имя компонента-иконки
-Banner,,CHECK,"похоже на служебное имя слоя, а не реальный текст — проверить видимость"
-Label,,CHECK,"похоже на дизайн-плейсхолдер, проверить видимость в реальном UI"
-Text,,CHECK,"похоже на дизайн-плейсхолдер, проверить видимость (см. также Filled text)"
-Help text,,CHECK,"похоже на дизайн-плейсхолдер подсказки, проверить видимость"
-Scroll,Desplázate,CHECK,"неоднозначно — подсказка скролла или служебная метка, проверить"
-+2,,CHECK,"неоднозначно — бейдж счётчика (+2 ещё) или контрол зума, проверить по месту"
--2,,CHECK,"неоднозначно, проверить по месту"
-(132),(132),DATA,"число в скобках, контекст не определён — оставлено как есть"
-(895),(895),DATA,"число в скобках, контекст не определён — оставлено как есть"
-(896),(896),DATA,"число в скобках, контекст не определён — оставлено как есть"
-9:41,9:41,DATA,"часы в статус-баре, формат универсален"
-80%,80%,DATA,заряд батареи в статус-баре
-10:45,10:45,DATA,"таймстемп, формат универсален"
-20:30,20:30,DATA,"таймстемп, формат универсален"
-1.2 km,"1,2 km",DATA,испанский формат — запятая вместо точки
-11 km,11 km,DATA,
-300 m,300 m,DATA,
-536 m,536 m,DATA,
-"8,2 km","8,2 km",DATA,уже в испанском формате
-"4,8","4,8",DATA,"рейтинг, уже в испанском формате"
-4.8,"4,8",DATA,"рейтинг, испанский формат — запятая"
-"5,0","5,0",DATA,"рейтинг, уже в испанском формате"
-PIN: 1050,PIN: 1050,DATA,"код подтверждения, числовой, без изменений"
- Оnline transfer,Transferencia en línea,UI,способ оплаты (кириллическая О сохранена в исходнике по ошибке дизайна)
-$13,COP 17.000,DATA,
-$15・Сash,"COP 20.000, Efectivo",DATA,
-$17,COP 22.000,DATA,
-"$17, Cash","COP 22.000, Efectivo",DATA,
-$20,COP 25.000,DATA,
-$56,COP 75.000,DATA,
-$56 Cash,"COP 75.000, Efectivo",DATA,
-$7・Сash,"COP 9.000, Efectivo",DATA,
-A$56,COP 75.000,DATA,было в австралийских долларах
-"The last similar order was accepted for $60, we recommend raising your fare","El último pedido similar fue aceptado por COP 90.000, te recomendamos subir tu tarifa",DATA,
-16 Ascot Street,Calle 85 # 19-40,DATA,
-20 Ingram Str. ,Calle 45 # 8-12,DATA,дубль адреса отправления с пробелом в конце
-"20 Molodezhnaya St Flat 15, 4th floor, intercom doesn't work, call me when you get here","Calle 26 # 68-90, apto. 15, piso 4, el citófono no funciona, llámame cuando llegues",DATA,было на английском с русским топонимом
-"33 Burnett Ln, Brisbane City QLD","Calle 72 # 10-34, Bogotá",DATA,вариант основного адреса отправления
-"43/3 Sarikopodshipnikovaia St Flat 17, 4th floor, intercom 17","Carrera 24 # 68-15, apto. 17, piso 4, citófono 17",DATA,
-45 Rockefeller Plaza,"Zona T, Bogotá",DATA,пример места назначения
-"4th floor, 135 apt, first door on the left, knock three times and wait","Piso 4, apto 135, primera puerta a la izquierda, toca tres veces y espera",DATA,
-Newark Liberty Airport Amtrak,Aeropuerto El Dorado,DATA,
-NJ TRANSIT-Newark Penn Station,Terminal de Transportes de Bogotá,DATA,
-"Tuesday,  23 June","Martes, 23 de junio",DATA,дубль с двойным пробелом в исходнике
-Maria,María,DATA,"имя отправителя/получателя (не курьер), любой пол"
-Gaurav,Mateo,DATA,имя+фото 4-й аватарки курьера -> Mateo.png из Userpics
-Silver Mercedes-Benz C-Class,Mercedes-Benz Clase C Plateado,DATA,
-Silver Mercedes-Benz  C-Class,Mercedes-Benz Clase C Plateado,DATA,дубль с двойным пробелом в исходнике
-Volkswagen Golf,Chevrolet Onix,DATA,"машина непопулярна в Колумбии, заменена по референсу"
-Yamaha YZF-R3,Bajaj Pulsar 200,DATA,"мотоцикл непопулярен в Колумбии, заменена по референсу"
-ABX 123,ABC456,DATA,"гос. номер, колумбийский формат"
-Good day! Would you please be so kind as to take my huge surprise box to the esteemed members of my gorgeous family? I would be most grateful for it,¡Buen día! ¿Serías tan amable de llevar mi caja sorpresa grande a los miembros de mi hermosa familia? Te lo agradecería mucho,DATA,
-"You can drive up from the pharmacy, near the barrier","Puedes acercarte desde la farmacia, cerca de la barrera",DATA,
-Accept,Aceptar,UI,
-Decline,Rechazar,UI,
-Has the package been delivered?,¿Se entregó el paquete?,UI,
-Have you passed the parcel to the courier?,¿Le entregaste el paquete al mensajero?,UI,
-Keep finding a courier,Seguir buscando mensajero,UI,
-Keep searching,Seguir buscando,UI,
-More than 3 passengers,Más de 3 pasajeros,UI,
-"Ok, I’m coming","Ok, ya voy",UI,
-On the way,En camino,UI,
-Optional,Opcional,UI,
-Options,Opciones,UI,
-Order complete,Pedido completado,UI,
-Order description,Descripción del pedido,UI,
-Order will be delivered in  ~25 min,El pedido se entregará en ~25 min,UI,двойной пробел в исходнике
-OTP,OTP,UI,оставлено как распространённая аббревиатура
-PIN-code protection,Protección con código PIN,UI,
-"PIN-code protection, Pharmacy, Size S. Up to 5 kg","Protección con código PIN, Farmacia, Tamaño S. Hasta 5 kg",UI,
-"PIN-code protection, Size S. Up to 5 kg","Protección con código PIN, Tamaño S. Hasta 5 kg",UI,
-Payment,Pago,UI,
-"Pharmacy, Dentistry equipment","Farmacia, Equipo dental",UI,
-Problem with delivery?,¿Problema con la entrega?,UI,
-Quick check before delivery,Verificación rápida antes de la entrega,UI,
-Raise fare,Subir tarifa,UI,
-Rate your courier,Califica a tu mensajero,UI,
-Ready for delivery,Listo para entregar,UI,
-Recipient’s phone,Teléfono del destinatario,UI,вариант с типографским апострофом
-Repeat order,Repetir pedido,UI,
-Save as template,Guardar como plantilla,UI,
-Searching,Buscando,UI,
-Searching for couriers nearby...,Buscando mensajeros cercanos...,UI,
-Searching for couriers...,Buscando mensajeros...,UI,
-Sender pays for delivery,El remitente paga el envío,UI,
-Sender’s phone,Teléfono del remitente,UI,вариант с типографским апострофом
-Superapp,Superapp,UI,"оставлено как есть, бренд-термин"
-Support ,Soporte ,UI,дубль с пробелом в конце
-The items are allowed for delivery and packed properly,Los artículos están permitidos para el envío y bien empacados,UI,
-The total value of the package does not exceed X,El valor total del paquete no supera X,UI,
-Thermal bag,Maleta térmica,UI,"англ. вариант того же узла, что и «Термосумка»"
-Weight and size of the package meet requirements,El peso y tamaño del paquete cumplen los requisitos,UI,
-Weight and size requirements,Requisitos de peso y tamaño,UI,
-XL,XL,UI,"тариф/размер, не переводится"
-Yes,Sí,UI,
-No,No,UI,
-Your current ride,Tu viaje actual,UI,
-Your offer,Tu oferta,UI,
-Сonfirmation,Confirmación,UI,опечатка в оригинале (кириллическая С) сохранена
-Joe’s Pizza,Pizzería Julia,DATA,вариант с типографским апострофом
-|,|,DATA,"курсор автодополнения, оставлен как есть"
-Add address details and phone number,Agrega los detalles de la dirección y el número de teléfono,UI,
-Add phone number,Agregar número de teléfono,UI,
-Adding points,Agregando puntos,UI,
-Is waiting,Está esperando,UI,
-~15 min,~15 min,DATA,
-~5 min,~5 min,DATA,
-~7 min,~7 min,DATA,
-–12%,–12%,DATA,"бейдж скидки, без изменений"
-–20%,–20%,DATA,"бейдж скидки, без изменений"
+Save,Guardar,Guardar,Guardar,UI,подтверждено референсом
+Arriving in 7 min,Llega en 7 min,Llega en 7 min,Llega en 7 min,UI,
+...Molodezhnay – Osennaya St 7,...Carrera 15 – Calle 93 #7,...Carrera 15 – Calle 93 #7,...Carrera 15 – Calle 93 #7,DATA,было на русском
+Car ,En carro ,En carro ,En carro ,UI,
+Motorcycle ,En moto ,En moto ,En moto ,UI,
+Bike ,En bicicleta ,En bicicleta ,En bicicleta ,UI,
++52 777 014 78 60,+57 300 123 4567,+51 987 654 321,+593 98 765 4321,DATA,"было в мексиканском формате, тот же номер что и остальные телефоны"
+"4th floor, 132 apt","Piso 4, apto 132","Piso 4, apto 132","Piso 4, apto 132",DATA,
+"2 floor, 25 apt","Piso 2, apto 25","Piso 2, apto 25","Piso 2, apto 25",DATA,
+Dentistry equipment,Equipo dental,Equipo dental,Equipo dental,DATA,
+Multipoints management,,,,SKIP,служебная подпись
+Offer,,,,SKIP,служебный заголовок секции
+Offer / P2P users,,,,SKIP,служебная подпись
+Offer / B2B users,,,,SKIP,служебная подпись
+Where from,Desde dónde,Desde dónde,Desde dónde,UI,
+Сourier delivery,Domicilio,Domicilio,Domicilio,UI,"опечатка в оригинале (кириллическая С), тот же смысл что Courier delivery"
+Recommended price: $20,Precio recomendado: COP 25.000,"Precio recomendado: S/ 24,00",Precio recomendado: $6.25,DATA,
+Car ~ 2200₸ ,En carro ~ COP 15.000,"En carro ~ S/ 14,00",En carro ~ $3.75,DATA,было в тенге
+Moto ~ 2000₸,En moto ~ COP 13.000,"En moto ~ S/ 12,50",En moto ~ $3.25,DATA,было в тенге
+Foot ~ 1700₸ ,A pie ~ COP 8.000,"A pie ~ S/ 7,50",A pie ~ $2.00,DATA,было в тенге
+Cash,Efectivo,Efectivo,Efectivo,UI,
+$,,,,CHECK,"символ валюты в степпере ввода цены; в остальном UI решили не использовать $ для COP - нужно смотреть по месту, возможно оставить как есть или убрать"
+Recommended price,Precio recomendado,Precio recomendado,Precio recomendado,UI,
+Car,En carro,En carro,En carro,UI,
+~$45,~COP 45.000,"~S/ 43,00",~$11.25,DATA,
+Motorcycle,En moto,En moto,En moto,UI,
+~ $25,~COP 25.000,"~S/ 24,00",~$6.25,DATA,
+~$25,~COP 20.000,"~S/ 19,00",~$5.00,DATA,"повторяется дважды (Bike и Foot courier), получит одно и то же значение"
+Recipient pays for delivery,El destinatario paga el envío,El destinatario paga el envío,El destinatario paga el envío,UI,
+"To courier, when package arrives","Al mensajero, cuando llegue el paquete","Al mensajero, cuando llegue el paquete","Al mensajero, cuando llegue el paquete",UI,
+Done,Listo,Listo,Listo,UI,
+Prime,Prime,Prime,Prime,UI,"оставляем как есть, названия тарифов обычно не переводят"
+Car ~ $15,En carro ~ COP 15.000,"En carro ~ S/ 14,00",En carro ~ $3.75,DATA,
+Motorcycle ~ $7,En moto ~ COP 10.000,"En moto ~ S/ 9,50",En moto ~ $2.50,DATA,
+Courier auto-choice,Elección automática de mensajero,Elección automática de mensajero,Elección automática de mensajero,UI,
+Based on your settings,Según tu configuración,Según tu configuración,Según tu configuración,UI,
+Only the recommended price includes a 10% discount,Solo el precio recomendado incluye un 10% de descuento,Solo el precio recomendado incluye un 10% de descuento,Solo el precio recomendado incluye un 10% de descuento,UI,
+Alex,Carlos,Carlos,Carlos,DATA,курьер на карточке ставки (авто VW Golf) -> имя+фото Carlos.png из Userpics
+Any pickup notes for courier?,¿Alguna nota de recogida para el mensajero?,¿Alguna nota de recogida para el mensajero?,¿Alguna nota de recogida para el mensajero?,UI,
+Bids,,,,SKIP,служебный заголовок секции
+Box of candies,Caja de dulces,Caja de dulces,Caja de dulces,DATA,
+Bushwick Ave,Avenida Caracas,Avenida Caracas,Avenida Caracas,DATA,
+Bushwick Green Cleaners,Lavandería Verde,Lavandería Verde,Lavandería Verde,DATA,
+Bushwick Green|,Lavandería Verde|,Lavandería Verde|,Lavandería Verde|,DATA,"с курсором автодополнения, оставлен | как есть"
+Cancel,Cancelar,Cancelar,Cancelar,UI,
+Cancel and edit,Cancelar y editar,Cancelar y editar,Cancelar y editar,UI,
+Cancel order,Cancelar pedido,Cancelar pedido,Cancelar pedido,UI,
+Cancel request,Cancelar solicitud,Cancelar solicitud,Cancelar solicitud,UI,
+Cancel this request?,¿Cancelar esta solicitud?,¿Cancelar esta solicitud?,¿Cancelar esta solicitud?,UI,
+Car courier,En carro,En carro,En carro,UI,подтверждено референсом
+Cargo moving in 3 hours,Mudanza en 3 horas,Mudanza en 3 horas,Mudanza en 3 horas,UI,дубль
+Centro médico... Santiago Távara,Clínica Country,Clínica Country,Clínica Country,DATA,дубль
+Change price,Cambiar precio,Cambiar precio,Cambiar precio,UI,
+Child seat,Silla para niños,Silla para niños,Silla para niños,UI,
+Circular Quay,Parque de la 93,Parque de la 93,Parque de la 93,DATA,
+Clarify address,Aclarar dirección,Aclarar dirección,Aclarar dirección,UI,
+Courier is waiting for you — 0:00 Long waits can affect your rating,El mensajero te está esperando — 0:00 Las esperas largas pueden afectar tu calificación,El mensajero te está esperando — 0:00 Las esperas largas pueden afectar tu calificación,El mensajero te está esperando — 0:00 Las esperas largas pueden afectar tu calificación,UI,
+Courier is waiting for you — 4:50,El mensajero te está esperando — 4:50,El mensajero te está esperando — 4:50,El mensajero te está esperando — 4:50,UI,
+Courier matches the details shown in the app,El mensajero coincide con los datos que se muestran en la app,El mensajero coincide con los datos que se muestran en la app,El mensajero coincide con los datos que se muestran en la app,UI,
+Courier on the way to Pennsylvania Plaza,El mensajero va camino a Centro Comercial Santafé,El mensajero va camino a Centro Comercial Santafé,El mensajero va camino a Centro Comercial Santafé,UI,
+Courier will arrive in ~8 min,El mensajero llega en ~8 min,El mensajero llega en ~8 min,El mensajero llega en ~8 min,UI,
+DTD confirmation,Confirmación puerta a puerta,Confirmación puerta a puerta,Confirmación puerta a puerta,UI,"исправлено по замечанию пользователя: DTD = Door-to-Door, это реальный текст (заголовок экрана подтверждения доставки ""от двери до двери""), а не служебная канвас-метка вроде /DTD — но точный контекст стоит перепроверить скриншотом при возобновлении работы"
+Delivery Terms of Use,Términos de uso de la entrega,Términos de uso de la entrega,Términos de uso de la entrega,UI,
+Delivery completed,Entrega completada,Entrega completada,Entrega completada,UI,
+Delivery confirmation,Confirmación de entrega,Confirmación de entrega,Confirmación de entrega,UI,
+Delivery info,Información de la entrega,Información de la entrega,Información de la entrega,UI,
+Did the courier pick up the package at your door?,¿El mensajero recogió el paquete en tu puerta?,¿El mensajero recogió el paquete en tu puerta?,¿El mensajero recogió el paquete en tu puerta?,UI,
+Edit details,Editar detalles,Editar detalles,Editar detalles,UI,
+English,,,,SKIP,"клавиша переключения языка системной клавиатуры, не трогать"
+Filled text,,,,CHECK,"похоже на дизайн-плейсхолдер, проверить видимость в реальном UI"
+Form with Multilocations,,,,SKIP,служебная подпись
+DEF,,,,SKIP,"буквы номеронабирателя, системный компонент"
+A,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+B,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+C,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+D,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+E,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+F,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+G,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+H,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+I,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+J,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+K,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+L,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+M,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+N,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+O,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+P,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+Q,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+R,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+S,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+T,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+U,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+V,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+W,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+X,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+Y,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+Z,,,,SKIP,"буква экранной QWERTY-клавиатуры, системный компонент"
+ ,,,,SKIP,клавиша пробела экранной клавиатуры
+",",,,,SKIP,клавиша запятой экранной клавиатуры
+.,,,,SKIP,клавиша точки экранной клавиатуры
+?123,,,,SKIP,клавиша переключения режима экранной клавиатуры
+0,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+1,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+2,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+3,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+4,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+5,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+6,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+7,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+8,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+9,,,,SKIP,"цифра числового набора (номеронабиратель/степпер), не переводится"
+* #,,,,SKIP,клавиши номеронабирателя
++,,,,SKIP,клавиша номеронабирателя
+0/200,0/200,0/200,0/200,DATA,"счётчик символов, универсальный формат"
+ABC,,,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
+GHI,,,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
+JKL,,,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
+MNO,,,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
+PQRS,,,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
+TUV,,,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
+WXYZ,,,,SKIP,"буквы номеронабирателя (T9), системный компонент, как DEF"
+Order statuses,,,,SKIP,служебный заголовок секции (7-я группа экранов)
+Search for courier,,,,SKIP,служебный заголовок секции (5-я группа экранов)
+Side menu,,,,SKIP,служебная подпись на канвасе
+Multilocations,,,,SKIP,служебная подпись на канвасе
+Warning (BDU),,,,SKIP,похоже на служебное имя компонента-иконки
+Banner,,,,CHECK,"похоже на служебное имя слоя, а не реальный текст — проверить видимость"
+Label,,,,CHECK,"похоже на дизайн-плейсхолдер, проверить видимость в реальном UI"
+Text,,,,CHECK,"похоже на дизайн-плейсхолдер, проверить видимость (см. также Filled text)"
+Help text,,,,CHECK,"похоже на дизайн-плейсхолдер подсказки, проверить видимость"
+Scroll,Desplázate,Desplázate,Desplázate,CHECK,"неоднозначно — подсказка скролла или служебная метка, проверить"
++2,,,,CHECK,"неоднозначно — бейдж счётчика (+2 ещё) или контрол зума, проверить по месту"
+-2,,,,CHECK,"неоднозначно, проверить по месту"
+(132),(132),(132),(132),DATA,"число в скобках, контекст не определён — оставлено как есть"
+(895),(895),(895),(895),DATA,"число в скобках, контекст не определён — оставлено как есть"
+(896),(896),(896),(896),DATA,"число в скобках, контекст не определён — оставлено как есть"
+9:41,9:41,9:41,9:41,DATA,"часы в статус-баре, формат универсален"
+80%,80%,80%,80%,DATA,заряд батареи в статус-баре
+10:45,10:45,10:45,10:45,DATA,"таймстемп, формат универсален"
+20:30,20:30,20:30,20:30,DATA,"таймстемп, формат универсален"
+1.2 km,"1,2 km","1,2 km","1,2 km",DATA,испанский формат — запятая вместо точки
+11 km,11 km,11 km,11 km,DATA,
+300 m,300 m,300 m,300 m,DATA,
+536 m,536 m,536 m,536 m,DATA,
+"8,2 km","8,2 km","8,2 km","8,2 km",DATA,уже в испанском формате
+"4,8","4,8","4,8","4,8",DATA,"рейтинг, уже в испанском формате"
+4.8,"4,8","4,8","4,8",DATA,"рейтинг, испанский формат — запятая"
+"5,0","5,0","5,0","5,0",DATA,"рейтинг, уже в испанском формате"
+PIN: 1050,PIN: 1050,PIN: 1050,PIN: 1050,DATA,"код подтверждения, числовой, без изменений"
+ Оnline transfer,Transferencia en línea,Transferencia en línea,Transferencia en línea,UI,способ оплаты (кириллическая О сохранена в исходнике по ошибке дизайна)
+$13,COP 17.000,"S/ 16,00",$4.25,DATA,
+$15・Сash,"COP 20.000, Efectivo","S/ 19,00, Efectivo","$5.00, Efectivo",DATA,
+$17,COP 22.000,"S/ 21,00",$5.50,DATA,
+"$17, Cash","COP 22.000, Efectivo","S/ 21,00, Efectivo","$5.50, Efectivo",DATA,
+$20,COP 25.000,"S/ 24,00",$6.25,DATA,
+$56,COP 75.000,"S/ 71,00",$18.75,DATA,
+$56 Cash,"COP 75.000, Efectivo","S/ 71,00, Efectivo","$18.75, Efectivo",DATA,
+$7・Сash,"COP 9.000, Efectivo","S/ 8,50, Efectivo","$2.25, Efectivo",DATA,
+A$56,COP 75.000,"S/ 71,00",$18.75,DATA,было в австралийских долларах
+"The last similar order was accepted for $60, we recommend raising your fare","El último pedido similar fue aceptado por COP 90.000, te recomendamos subir tu tarifa","El último pedido similar fue aceptado por S/ 85,50, te recomendamos subir tu tarifa","El último pedido similar fue aceptado por $22.50, te recomendamos subir tu tarifa",DATA,
+16 Ascot Street,Calle 85 # 19-40,Calle 85 # 19-40,Calle 85 # 19-40,DATA,
+20 Ingram Str. ,Calle 45 # 8-12,Calle 45 # 8-12,Calle 45 # 8-12,DATA,дубль адреса отправления с пробелом в конце
+"20 Molodezhnaya St Flat 15, 4th floor, intercom doesn't work, call me when you get here","Calle 26 # 68-90, apto. 15, piso 4, el citófono no funciona, llámame cuando llegues","Calle 26 # 68-90, apto. 15, piso 4, el citófono no funciona, llámame cuando llegues","Calle 26 # 68-90, apto. 15, piso 4, el citófono no funciona, llámame cuando llegues",DATA,было на английском с русским топонимом
+"33 Burnett Ln, Brisbane City QLD","Calle 72 # 10-34, Bogotá","Calle 72 # 10-34, Bogotá","Calle 72 # 10-34, Bogotá",DATA,вариант основного адреса отправления
+"43/3 Sarikopodshipnikovaia St Flat 17, 4th floor, intercom 17","Carrera 24 # 68-15, apto. 17, piso 4, citófono 17","Carrera 24 # 68-15, apto. 17, piso 4, citófono 17","Carrera 24 # 68-15, apto. 17, piso 4, citófono 17",DATA,
+45 Rockefeller Plaza,"Zona T, Bogotá","Zona T, Bogotá","Zona T, Bogotá",DATA,пример места назначения
+"4th floor, 135 apt, first door on the left, knock three times and wait","Piso 4, apto 135, primera puerta a la izquierda, toca tres veces y espera","Piso 4, apto 135, primera puerta a la izquierda, toca tres veces y espera","Piso 4, apto 135, primera puerta a la izquierda, toca tres veces y espera",DATA,
+Newark Liberty Airport Amtrak,Aeropuerto El Dorado,Aeropuerto El Dorado,Aeropuerto El Dorado,DATA,
+NJ TRANSIT-Newark Penn Station,Terminal de Transportes de Bogotá,Terminal de Transportes de Bogotá,Terminal de Transportes de Bogotá,DATA,
+"Tuesday,  23 June","Martes, 23 de junio","Martes, 23 de junio","Martes, 23 de junio",DATA,дубль с двойным пробелом в исходнике
+Maria,María,María,María,DATA,"имя отправителя/получателя (не курьер), любой пол"
+Gaurav,Mateo,Mateo,Mateo,DATA,имя+фото 4-й аватарки курьера -> Mateo.png из Userpics
+Silver Mercedes-Benz C-Class,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,DATA,
+Silver Mercedes-Benz  C-Class,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,Mercedes-Benz Clase C Plateado,DATA,дубль с двойным пробелом в исходнике
+Volkswagen Golf,Chevrolet Onix,Chevrolet Onix,Chevrolet Onix,DATA,"машина непопулярна в Колумбии, заменена по референсу"
+Yamaha YZF-R3,Bajaj Pulsar 200,Bajaj Pulsar 200,Bajaj Pulsar 200,DATA,"мотоцикл непопулярен в Колумбии, заменена по референсу"
+ABX 123,ABC456,ABC456,ABC456,DATA,"гос. номер, колумбийский формат"
+Good day! Would you please be so kind as to take my huge surprise box to the esteemed members of my gorgeous family? I would be most grateful for it,¡Buen día! ¿Serías tan amable de llevar mi caja sorpresa grande a los miembros de mi hermosa familia? Te lo agradecería mucho,¡Buen día! ¿Serías tan amable de llevar mi caja sorpresa grande a los miembros de mi hermosa familia? Te lo agradecería mucho,¡Buen día! ¿Serías tan amable de llevar mi caja sorpresa grande a los miembros de mi hermosa familia? Te lo agradecería mucho,DATA,
+"You can drive up from the pharmacy, near the barrier","Puedes acercarte desde la farmacia, cerca de la barrera","Puedes acercarte desde la farmacia, cerca de la barrera","Puedes acercarte desde la farmacia, cerca de la barrera",DATA,
+Accept,Aceptar,Aceptar,Aceptar,UI,
+Decline,Rechazar,Rechazar,Rechazar,UI,
+Has the package been delivered?,¿Se entregó el paquete?,¿Se entregó el paquete?,¿Se entregó el paquete?,UI,
+Have you passed the parcel to the courier?,¿Le entregaste el paquete al mensajero?,¿Le entregaste el paquete al mensajero?,¿Le entregaste el paquete al mensajero?,UI,
+Keep finding a courier,Seguir buscando mensajero,Seguir buscando mensajero,Seguir buscando mensajero,UI,
+Keep searching,Seguir buscando,Seguir buscando,Seguir buscando,UI,
+More than 3 passengers,Más de 3 pasajeros,Más de 3 pasajeros,Más de 3 pasajeros,UI,
+"Ok, I’m coming","Ok, ya voy","Ok, ya voy","Ok, ya voy",UI,
+On the way,En camino,En camino,En camino,UI,
+Optional,Opcional,Opcional,Opcional,UI,
+Options,Opciones,Opciones,Opciones,UI,
+Order complete,Pedido completado,Pedido completado,Pedido completado,UI,
+Order description,Descripción del pedido,Descripción del pedido,Descripción del pedido,UI,
+Order will be delivered in  ~25 min,El pedido se entregará en ~25 min,El pedido se entregará en ~25 min,El pedido se entregará en ~25 min,UI,двойной пробел в исходнике
+OTP,OTP,OTP,OTP,UI,оставлено как распространённая аббревиатура
+PIN-code protection,Protección con código PIN,Protección con código PIN,Protección con código PIN,UI,
+"PIN-code protection, Pharmacy, Size S. Up to 5 kg","Protección con código PIN, Farmacia, Tamaño S. Hasta 5 kg","Protección con código PIN, Farmacia, Tamaño S. Hasta 5 kg","Protección con código PIN, Farmacia, Tamaño S. Hasta 5 kg",UI,
+"PIN-code protection, Size S. Up to 5 kg","Protección con código PIN, Tamaño S. Hasta 5 kg","Protección con código PIN, Tamaño S. Hasta 5 kg","Protección con código PIN, Tamaño S. Hasta 5 kg",UI,
+Payment,Pago,Pago,Pago,UI,
+"Pharmacy, Dentistry equipment","Farmacia, Equipo dental","Farmacia, Equipo dental","Farmacia, Equipo dental",UI,
+Problem with delivery?,¿Problema con la entrega?,¿Problema con la entrega?,¿Problema con la entrega?,UI,
+Quick check before delivery,Verificación rápida antes de la entrega,Verificación rápida antes de la entrega,Verificación rápida antes de la entrega,UI,
+Raise fare,Subir tarifa,Subir tarifa,Subir tarifa,UI,
+Rate your courier,Califica a tu mensajero,Califica a tu mensajero,Califica a tu mensajero,UI,
+Ready for delivery,Listo para entregar,Listo para entregar,Listo para entregar,UI,
+Recipient’s phone,Teléfono del destinatario,Teléfono del destinatario,Teléfono del destinatario,UI,вариант с типографским апострофом
+Repeat order,Repetir pedido,Repetir pedido,Repetir pedido,UI,
+Save as template,Guardar como plantilla,Guardar como plantilla,Guardar como plantilla,UI,
+Searching,Buscando,Buscando,Buscando,UI,
+Searching for couriers nearby...,Buscando mensajeros cercanos...,Buscando mensajeros cercanos...,Buscando mensajeros cercanos...,UI,
+Searching for couriers...,Buscando mensajeros...,Buscando mensajeros...,Buscando mensajeros...,UI,
+Sender pays for delivery,El remitente paga el envío,El remitente paga el envío,El remitente paga el envío,UI,
+Sender’s phone,Teléfono del remitente,Teléfono del remitente,Teléfono del remitente,UI,вариант с типографским апострофом
+Superapp,Superapp,Superapp,Superapp,UI,"оставлено как есть, бренд-термин"
+Support ,Soporte ,Soporte ,Soporte ,UI,дубль с пробелом в конце
+The items are allowed for delivery and packed properly,Los artículos están permitidos para el envío y bien empacados,Los artículos están permitidos para el envío y bien empacados,Los artículos están permitidos para el envío y bien empacados,UI,
+The total value of the package does not exceed X,El valor total del paquete no supera X,El valor total del paquete no supera X,El valor total del paquete no supera X,UI,
+Thermal bag,Maleta térmica,Maleta térmica,Maleta térmica,UI,"англ. вариант того же узла, что и «Термосумка»"
+Weight and size of the package meet requirements,El peso y tamaño del paquete cumplen los requisitos,El peso y tamaño del paquete cumplen los requisitos,El peso y tamaño del paquete cumplen los requisitos,UI,
+Weight and size requirements,Requisitos de peso y tamaño,Requisitos de peso y tamaño,Requisitos de peso y tamaño,UI,
+XL,XL,XL,XL,UI,"тариф/размер, не переводится"
+Yes,Sí,Sí,Sí,UI,
+No,No,No,No,UI,
+Your current ride,Tu viaje actual,Tu viaje actual,Tu viaje actual,UI,
+Your offer,Tu oferta,Tu oferta,Tu oferta,UI,
+Сonfirmation,Confirmación,Confirmación,Confirmación,UI,опечатка в оригинале (кириллическая С) сохранена
+Joe’s Pizza,Pizzería Julia,Pizzería Julia,Pizzería Julia,DATA,вариант с типографским апострофом
+|,|,|,|,DATA,"курсор автодополнения, оставлен как есть"
+Add address details and phone number,Agrega los detalles de la dirección y el número de teléfono,Agrega los detalles de la dirección y el número de teléfono,Agrega los detalles de la dirección y el número de teléfono,UI,
+Add phone number,Agregar número de teléfono,Agregar número de teléfono,Agregar número de teléfono,UI,
+Adding points,Agregando puntos,Agregando puntos,Agregando puntos,UI,
+Is waiting,Está esperando,Está esperando,Está esperando,UI,
+~15 min,~15 min,~15 min,~15 min,DATA,
+~5 min,~5 min,~5 min,~5 min,DATA,
+~7 min,~7 min,~7 min,~7 min,DATA,
+–12%,–12%,–12%,–12%,DATA,"бейдж скидки, без изменений"
+–20%,–20%,–20%,–20%,DATA,"бейдж скидки, без изменений"
